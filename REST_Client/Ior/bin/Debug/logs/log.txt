@@ -1,0 +1,826 @@
+[2014-05-13 12:54:34.2469] [INFO] {14520::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-13 12:54:35.6710] [INFO] {14520::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-13 12:55:46.8741] [INFO] {14520::9} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-13 12:57:16.6701] [INFO] {8204::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-13 12:57:17.1282] [INFO] {8204::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-13 13:01:54.7209] [INFO] {8204::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-13 13:04:05.8350] [INFO] {16152::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-13 13:04:06.3691] [INFO] {16152::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-13 13:07:31.8556] [INFO] {16152::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-13 13:07:41.8046] [INFO] {12352::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-13 13:07:42.3087] [INFO] {12352::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-13 13:07:47.1632] [INFO] {12352::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-13 13:08:03.4858] [INFO] {6940::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-13 13:08:03.9078] [INFO] {6940::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-13 13:08:10.3425] [INFO] {6940::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:28:19.6826] [INFO] {8088::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:48:55.6992] [INFO] {8088::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:49:00.3726] [INFO] {7872::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:49:00.8087] [INFO] {7872::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:49:59.8816] [INFO] {7872::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:50:03.7420] [INFO] {8452::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:50:04.1000] [INFO] {8452::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:50:21.0216] [INFO] {8452::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:50:31.5406] [INFO] {5960::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:53:24.1526] [INFO] {5960::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:54:22.9886] [INFO] {8748::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:54:23.4196] [INFO] {8748::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:54:30.2006] [INFO] {8748::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:54:44.4366] [INFO] {9180::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:54:44.8016] [INFO] {9180::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:54:53.6656] [INFO] {9180::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:55:06.9856] [INFO] {8664::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:55:07.3446] [INFO] {8664::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:56:25.4801] [INFO] {8664::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:57:01.9788] [INFO] {8700::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:57:02.3398] [INFO] {8700::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:57:05.0811] [INFO] {8700::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:57:12.1238] [INFO] {7812::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:57:12.4818] [INFO] {7812::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:57:16.8733] [INFO] {7812::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:57:25.7212] [INFO] {6548::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:57:26.0822] [INFO] {6548::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:57:35.7162] [INFO] {6548::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:57:59.5386] [INFO] {7600::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:57:59.8936] [INFO] {7600::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:58:06.3092] [INFO] {7600::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:58:14.9871] [INFO] {5220::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:58:15.3611] [INFO] {5220::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:58:23.3539] [INFO] {5220::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 10:58:36.3022] [INFO] {10996::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 10:58:36.6633] [INFO] {10996::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 10:58:39.3745] [INFO] {10996::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:01:36.3112] [INFO] {8520::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:01:36.6783] [INFO] {8520::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:03:30.3296] [INFO] {8520::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:03:32.7179] [INFO] {8196::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:03:33.0769] [INFO] {8196::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:03:35.8982] [INFO] {8196::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:03:57.2743] [INFO] {7860::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:03:57.6304] [INFO] {7860::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:04:00.7937] [INFO] {7860::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:04:07.7544] [INFO] {6964::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:04:08.1124] [INFO] {6964::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:04:10.3186] [INFO] {6964::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:04:57.8984] [INFO] {7436::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:04:58.2584] [INFO] {7436::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:05:02.8689] [INFO] {7436::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:05:14.2750] [INFO] {8508::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:05:14.6321] [INFO] {8508::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:05:18.1484] [INFO] {8508::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:05:32.5448] [INFO] {9024::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:05:32.9009] [INFO] {9024::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:05:45.6542] [INFO] {9024::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:06:08.6625] [INFO] {9680::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:06:09.0255] [INFO] {9680::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:06:22.6249] [INFO] {9680::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:06:37.7944] [INFO] {10096::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:06:38.1554] [INFO] {10096::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:06:41.8718] [INFO] {10096::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:07:14.8101] [INFO] {9968::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:07:50.4364] [INFO] {9968::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:07:53.0034] [INFO] {8676::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:07:53.3634] [INFO] {8676::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:07:56.2244] [INFO] {8676::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:08:46.2104] [INFO] {4308::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:08:46.5684] [INFO] {4308::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:08:48.9384] [INFO] {4308::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:09:03.6274] [INFO] {7384::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:09:03.9954] [INFO] {7384::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:09:06.9944] [INFO] {7384::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:09:12.8834] [INFO] {7752::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:09:13.2424] [INFO] {7752::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:09:16.8334] [INFO] {7752::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:10:18.1814] [INFO] {7472::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:10:18.5404] [INFO] {7472::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:12:45.9544] [INFO] {7472::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:12:48.2524] [INFO] {3288::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:12:48.6934] [INFO] {3288::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:12:50.9584] [INFO] {3288::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:15:26.2894] [INFO] {10416::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:15:26.6544] [INFO] {10416::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:16:00.7914] [INFO] {10416::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:20:43.3799] [INFO] {4312::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:20:43.8260] [INFO] {4312::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:21:00.0636] [INFO] {4312::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 11:22:46.2102] [INFO] {10888::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 11:22:46.5693] [INFO] {10888::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 11:35:35.2781] [INFO] {10888::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:01:39.3280] [INFO] {6664::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:01:39.9250] [INFO] {6664::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:01:54.3475] [INFO] {6664::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:02:17.3878] [INFO] {4516::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:02:17.7448] [INFO] {4516::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:02:35.9957] [INFO] {4516::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:02:59.2830] [INFO] {4572::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:02:59.6390] [INFO] {4572::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:04:18.4449] [INFO] {4572::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:17:28.6599] [INFO] {9812::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:17:29.0950] [INFO] {9812::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:17:40.7701] [INFO] {9812::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:17:53.4254] [INFO] {9412::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:18:01.7372] [INFO] {9412::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:18:03.6934] [INFO] {9064::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:18:04.0124] [INFO] {9064::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:18:55.5816] [INFO] {9176::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:18:55.9346] [INFO] {9176::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:19:01.7052] [INFO] {9176::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:19:11.2132] [INFO] {6280::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:19:11.5682] [INFO] {6280::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:19:51.0472] [INFO] {6280::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:19:56.5177] [INFO] {9376::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:19:56.7877] [INFO] {9376::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:21:24.3175] [INFO] {9504::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:21:24.6735] [INFO] {9504::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:21:40.9361] [INFO] {9504::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:21:42.2443] [INFO] {10072::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:21:42.5073] [INFO] {10072::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:22:28.8159] [INFO] {10076::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:22:29.1740] [INFO] {10076::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:23:28.0118] [INFO] {10076::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:23:57.9218] [INFO] {9344::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:23:58.2779] [INFO] {9344::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:25:45.2741] [INFO] {9344::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:25:46.6850] [INFO] {10180::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:25:47.0399] [INFO] {10180::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:25:54.6992] [INFO] {10180::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:26:21.4615] [INFO] {7808::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:26:21.8174] [INFO] {7808::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:29:04.6052] [INFO] {7808::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:29:07.6279] [INFO] {9756::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:29:07.9828] [INFO] {9756::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:32:36.3183] [WARN] {9756::1} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:32:36.3183] [ERROR] {9756::7} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:32:51.4083] [WARN] {9756::1} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:32:51.4083] [ERROR] {9756::9} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:33:00.5783] [WARN] {9756::1} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:07.5303] [WARN] {9756::1} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:07.5313] [ERROR] {9756::10} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:33:14.2583] [WARN] {9756::1} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:18.8023] [WARN] {9756::1} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:18.8023] [ERROR] {9756::10} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:33:41.4063] [INFO] {9756::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:33:44.3493] [INFO] {8272::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:33:44.8393] [INFO] {8272::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:33:55.7033] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:55.7683] [ERROR] {8272::11} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:33:57.2943] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:57.2943] [ERROR] {8272::11} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:33:57.9583] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:57.9583] [ERROR] {8272::12} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:33:58.6113] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:58.6113] [ERROR] {8272::12} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:33:59.3443] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:59.3443] [ERROR] {8272::11} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:33:59.5103] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:33:59.5103] [ERROR] {8272::10} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:38:10.7733] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:38:10.7733] [ERROR] {8272::14} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:38:38.1483] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:39:16.9813] [ERROR] {8272::16} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:41:09.4583] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:41:09.4743] [ERROR] {8272::18} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:42:49.4507] [WARN] {8272::9} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:42:49.4597] [ERROR] {8272::19} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:45:12.3823] [INFO] {4884::8} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:45:26.0870] [WARN] {4884::8} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:46:27.2102] [ERROR] {4884::11} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.ProtocolViolationException: Cannot send a content-body with this verb-type.
+   at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)    at System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   at System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   at System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state)
+[2014-05-14 14:49:46.1507] [WARN] {4884::8} Swensen.Ior.Core.IorClient - charset= not supported, falling back on iso-8859-1 
+[2014-05-14 14:50:50.6911] [INFO] {11032::10} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:50:51.0332] [INFO] {11032::10} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:55:08.2869] [INFO] {11032::10} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:57:47.4578] [INFO] {10740::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:57:47.8938] [INFO] {10740::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:57:52.2273] [INFO] {10740::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 14:58:48.0458] [INFO] {9944::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 14:58:48.3969] [INFO] {9944::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 14:58:53.2694] [INFO] {9944::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:02:36.6617] [INFO] {8416::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:02:37.0968] [INFO] {8416::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:02:44.7325] [INFO] {8416::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:03:30.7101] [INFO] {9568::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:03:31.0872] [INFO] {9568::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:03:38.8819] [INFO] {9568::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:03:55.9606] [INFO] {6772::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:03:56.3247] [INFO] {6772::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:04:01.1262] [INFO] {6772::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:04:35.6946] [INFO] {8416::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:04:36.0536] [INFO] {8416::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:06:12.7933] [INFO] {8416::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:06:15.3656] [INFO] {10252::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:06:15.7226] [INFO] {10252::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:06:23.5914] [INFO] {10252::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:06:39.2690] [INFO] {9116::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:06:39.6210] [INFO] {9116::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:08:53.0453] [INFO] {9116::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:10:21.9152] [INFO] {11780::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:10:22.2883] [INFO] {11780::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:13:46.4247] [INFO] {11780::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:14:15.1035] [INFO] {4912::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:14:15.5406] [INFO] {4912::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:14:28.4389] [INFO] {4912::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:15:10.8631] [INFO] {10092::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:17:22.5563] [INFO] {10092::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:17:24.9235] [INFO] {10368::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:17:25.2666] [FATAL] {10368::1} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.InvalidOperationException: At least one of the DataGridView control's columns has no cell template.
+   at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridView.CorrectColumnFrozenStates(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridView.OnAddingColumns(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridViewColumnCollection.AddRange(DataGridViewColumn[] dataGridViewColumns)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47    at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridView.CorrectColumnFrozenStates(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridView.OnAddingColumns(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridViewColumnCollection.AddRange(DataGridViewColumn[] dataGridViewColumns)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+[2014-05-14 15:17:31.3692] [INFO] {6384::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:17:31.6812] [FATAL] {6384::1} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.InvalidOperationException: At least one of the DataGridView control's columns has no cell template.
+   at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridView.CorrectColumnFrozenStates(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridView.OnAddingColumns(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridViewColumnCollection.AddRange(DataGridViewColumn[] dataGridViewColumns)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47    at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridView.CorrectColumnFrozenStates(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridView.OnAddingColumns(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridViewColumnCollection.AddRange(DataGridViewColumn[] dataGridViewColumns)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+[2014-05-14 15:17:44.7785] [INFO] {9728::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:17:45.0865] [FATAL] {9728::1} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.InvalidOperationException: At least one of the DataGridView control's columns has no cell template.
+   at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridView.CorrectColumnFrozenStates(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridView.OnAddingColumns(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridViewColumnCollection.AddRange(DataGridViewColumn[] dataGridViewColumns)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47    at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridView.CorrectColumnFrozenStates(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridView.OnAddingColumns(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridViewColumnCollection.AddRange(DataGridViewColumn[] dataGridViewColumns)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+[2014-05-14 15:18:10.9081] [INFO] {10372::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:18:11.2652] [INFO] {10372::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:18:30.6051] [INFO] {10372::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:18:53.8854] [INFO] {11312::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:18:54.2005] [FATAL] {11312::1} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.InvalidOperationException: At least one of the DataGridView control's columns has no cell template.
+   at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridView.CorrectColumnFrozenStates(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridView.OnAddingColumns(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridViewColumnCollection.AddRange(DataGridViewColumn[] dataGridViewColumns)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47    at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridView.CorrectColumnFrozenStates(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridView.OnAddingColumns(DataGridViewColumn[] dataGridViewColumns)
+   at System.Windows.Forms.DataGridViewColumnCollection.AddRange(DataGridViewColumn[] dataGridViewColumns)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+[2014-05-14 15:21:39.9640] [INFO] {8916::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:21:40.3271] [INFO] {8916::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:22:37.2028] [INFO] {8916::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:22:37.9148] [INFO] {11968::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:22:38.2279] [FATAL] {11968::1} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.InvalidOperationException: At least one of the DataGridView control's columns has no cell template.
+   at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47    at System.Windows.Forms.DataGridView.CompleteCellsCollection(DataGridViewRow dataGridViewRow)
+   at System.Windows.Forms.DataGridView.get_RowTemplateClone()
+   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   at System.Windows.Forms.DataGridView.AddNewRow(Boolean createdByEditing)
+   at System.Windows.Forms.DataGridView.OnColumnCollectionChanged_PostNotification(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.OnCollectionChanged_PostNotification(CollectionChangeEventArgs ccea, Boolean changeIsInsertion, Point newCurrentCell)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at Swensen.Ior.Forms.MainForm.InitializeComponent() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.Designer.cs:line 173
+   at Swensen.Ior.Forms.MainForm..ctor() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 51
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+[2014-05-14 15:23:59.3840] [INFO] {9388::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:23:59.7430] [INFO] {9388::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:24:01.3382] [INFO] {9388::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:25:37.6518] [INFO] {7340::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:25:38.0158] [INFO] {7340::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:25:40.9831] [INFO] {7340::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:25:55.7046] [INFO] {5380::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:25:56.0636] [INFO] {5380::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:26:00.3021] [INFO] {5380::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:26:14.3655] [INFO] {10916::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:26:14.7275] [INFO] {10916::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:26:16.5137] [INFO] {10916::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:27:25.6576] [INFO] {10980::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:27:26.0196] [INFO] {10980::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:27:28.5379] [INFO] {10980::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:27:39.1029] [INFO] {652::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:27:39.4740] [INFO] {652::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:27:41.9902] [INFO] {652::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:27:51.4832] [INFO] {9920::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:27:51.8422] [INFO] {9920::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:29:31.2432] [INFO] {9920::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:30:16.7197] [INFO] {10964::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:30:17.1527] [INFO] {10964::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:30:31.6432] [INFO] {10964::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:31:24.4785] [INFO] {6924::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:31:24.7445] [INFO] {6924::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:31:33.4204] [INFO] {6924::9} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:35:15.3333] [INFO] {6136::10} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:35:15.6762] [INFO] {6136::10} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:36:35.8202] [INFO] {11040::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:36:36.1782] [INFO] {11040::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:36:51.2237] [INFO] {11040::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:36:59.0939] [INFO] {10380::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:37:16.1722] [INFO] {10380::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:39:18.5839] [INFO] {8112::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:40:26.4459] [INFO] {8112::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:40:27.8599] [INFO] {11752::10} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:40:28.1329] [INFO] {11752::10} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:40:29.6959] [INFO] {11752::10} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:40:32.0929] [INFO] {4876::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:40:32.4539] [INFO] {4876::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 15:40:33.7829] [INFO] {4876::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 15:40:35.1479] [INFO] {9952::10} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 15:41:23.9419] [INFO] {9952::10} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 16:05:12.0502] [INFO] {10088::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 16:07:36.0129] [INFO] {10200::10} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 16:07:36.3460] [INFO] {10200::10} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 16:16:31.9612] [INFO] {9076::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 16:16:32.3933] [INFO] {9076::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 16:17:02.0472] [INFO] {9076::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 17:52:53.1764] [INFO] {10368::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 17:52:53.6114] [INFO] {10368::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 17:53:12.4904] [INFO] {10368::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 17:53:48.3754] [INFO] {11300::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 17:53:48.6464] [INFO] {11300::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 17:54:34.9914] [INFO] {7440::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 17:54:35.3484] [INFO] {7440::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 17:56:36.2814] [INFO] {7440::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 17:57:25.4964] [INFO] {10536::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 17:57:25.9274] [INFO] {10536::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 17:57:38.0864] [INFO] {10536::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-14 17:57:39.9744] [INFO] {11132::10} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 17:57:40.2464] [INFO] {11132::10} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 17:58:25.0934] [INFO] {8692::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 17:58:25.3684] [INFO] {8692::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 17:58:42.9394] [FATAL] {8692::9} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Swensen.Ior.Forms.MainForm.addQueryParams() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 328
+   at Swensen.Ior.Forms.MainForm.btnSubmitRequest_Click(Object sender, EventArgs e) in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 303
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()    at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Swensen.Ior.Forms.MainForm.addQueryParams() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 328
+   at Swensen.Ior.Forms.MainForm.btnSubmitRequest_Click(Object sender, EventArgs e) in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 303
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+[2014-05-14 17:58:45.2504] [FATAL] {8692::9} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Swensen.Ior.Forms.MainForm.addQueryParams() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 328
+   at Swensen.Ior.Forms.MainForm.btnSubmitRequest_Click(Object sender, EventArgs e) in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 303
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()    at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Swensen.Ior.Forms.MainForm.addQueryParams() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 328
+   at Swensen.Ior.Forms.MainForm.btnSubmitRequest_Click(Object sender, EventArgs e) in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 303
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+[2014-05-14 17:58:47.4404] [FATAL] {8692::9} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Swensen.Ior.Forms.MainForm.addQueryParams() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 328
+   at Swensen.Ior.Forms.MainForm.btnSubmitRequest_Click(Object sender, EventArgs e) in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 303
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()    at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Swensen.Ior.Forms.MainForm.addQueryParams() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 328
+   at Swensen.Ior.Forms.MainForm.btnSubmitRequest_Click(Object sender, EventArgs e) in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 303
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+[2014-05-14 17:58:49.3464] [ERROR] {8692::11} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'sdfasdf'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace --- 
+[2014-05-14 17:58:50.0334] [FATAL] {8692::9} Swensen.Ior.Forms.Program - Unhandled AppDomain exception, IsTerminating=True 
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Swensen.Ior.Forms.MainForm.addQueryParams() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 328
+   at Swensen.Ior.Forms.MainForm.btnSubmitRequest_Click(Object sender, EventArgs e) in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 303
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()    at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Swensen.Ior.Forms.MainForm.addQueryParams() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 328
+   at Swensen.Ior.Forms.MainForm.btnSubmitRequest_Click(Object sender, EventArgs e) in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\MainForm.cs:line 303
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Swensen.Ior.Forms.Program.Main() in c:\Users\jamesb\Desktop\iamonlyresting\source\Ior\Forms\Program.cs:line 47
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+[2014-05-14 17:58:54.5294] [INFO] {5444::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 17:58:54.8934] [INFO] {5444::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-14 17:58:59.8584] [ERROR] {5444::5} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'asdfasdf'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace --- 
+[2014-05-14 17:59:06.8814] [ERROR] {5444::7} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'asdfasdf'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace --- 
+[2014-05-14 17:59:11.3854] [INFO] {8320::10} Swensen.Ior.Forms.Program - App starting 
+[2014-05-14 18:06:36.3899] [INFO] {10600::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:16:57.4593] [INFO] {10600::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-15 09:17:40.4602] [INFO] {12488::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:17:41.0938] [INFO] {12488::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-15 09:20:18.7744] [INFO] {12488::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-15 09:20:20.5980] [INFO] {9096::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:20:20.8680] [INFO] {9096::9} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-15 09:24:52.5796] [INFO] {14364::9} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:25:25.3104] [INFO] {14480::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:25:25.6884] [INFO] {14480::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-15 09:32:09.4838] [INFO] {14480::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-15 09:36:29.1438] [INFO] {6244::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:36:29.5908] [INFO] {6244::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-15 09:36:43.8492] [INFO] {6244::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-15 09:37:50.4059] [INFO] {6304::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:37:50.7649] [INFO] {6304::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-15 09:38:38.2297] [INFO] {6304::1} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-15 09:39:30.4089] [INFO] {15140::11} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:39:30.7089] [INFO] {15140::11} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-15 09:39:40.8679] [ERROR] {15140::12} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'dgfgsdrgsdf'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace --- 
+[2014-05-15 09:40:31.0039] [INFO] {15140::11} Swensen.Ior.Forms.Program - App shutting down 
+[2014-05-15 09:41:12.7441] [INFO] {8764::10} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 09:41:13.0191] [INFO] {8764::10} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-15 09:41:19.3318] [ERROR] {8764::13} Swensen.Ior.Core.IorClient - request terminated with an error 
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'sdfasdfdsf'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace --- 

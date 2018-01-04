@@ -1,0 +1,3 @@
+[2014-05-15 10:43:01.7230] [INFO] {5908::1} Swensen.Ior.Forms.Program - App starting 
+[2014-05-15 10:43:02.2750] [INFO] {5908::1} Swensen.Ior.Properties.Settings - Upgrading user settings 
+[2014-05-15 10:43:16.5225] [INFO] {5908::1} Swensen.Ior.Forms.Program - App shutting down 

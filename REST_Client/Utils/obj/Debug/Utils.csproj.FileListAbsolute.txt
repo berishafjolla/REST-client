@@ -1,0 +1,9 @@
+C:\Users\jamesb\Desktop\iamonlyresting\source\Utils\bin\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Utils\bin\Debug\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\source\Utils\obj\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Utils\obj\Debug\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Utils\bin\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Utils\bin\Debug\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Utils\obj\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Utils\obj\Debug\Utils.pdb

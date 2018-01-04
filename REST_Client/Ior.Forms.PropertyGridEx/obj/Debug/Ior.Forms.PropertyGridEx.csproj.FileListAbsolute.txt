@@ -1,0 +1,22 @@
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior.Forms.PropertyGridEx\obj\Debug\Ior.Forms.PropertyGridEx.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\obj\Debug\Ior.Forms.PropertyGridEx.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\bin\Debug\PropertyGridEx.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior.Forms.PropertyGridEx\obj\Debug\PropertyGridEx.pdb

@@ -1,0 +1,152 @@
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\SciLexer.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\SciLexer64.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\libtidy.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\app.config
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\Tests.IorTests.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\Tests.IorTests.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\FluentAssertions.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\im-only-resting.exe
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\nunit.framework.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\System.Net.Http.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\System.Net.Http.WebRequest.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\ScintillaNET.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\NLog.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\TidyManaged.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\im-only-resting.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\FluentAssertions.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\FluentAssertions.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\nunit.framework.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\System.Net.Http.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\System.Net.Http.WebRequest.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\ScintillaNET.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\NLog.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\bin\x86\Debug\TidyManaged.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\obj\x86\Debug\Tests.IorTests.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\obj\x86\Debug\Tests.IorTests.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Tests.IorTests\obj\x86\Debug\Tests.IorTests.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\SciLexer.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\SciLexer64.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\libtidy.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\app.config
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\Tests.IorTests.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\Tests.IorTests.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\FluentAssertions.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\nunit.framework.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\System.Net.Http.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\System.Net.Http.WebRequest.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\ScintillaNET.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\NLog.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\TidyManaged.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\FluentAssertions.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\FluentAssertions.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\nunit.framework.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\System.Net.Http.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\System.Net.Http.WebRequest.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\ScintillaNET.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\NLog.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\TidyManaged.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\obj\x86\Debug\Tests.IorTests.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\obj\x86\Debug\Tests.IorTests.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\obj\x86\Debug\Tests.IorTests.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\RESTClient.exe
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Tests.IorTests\bin\x86\Debug\RESTClient.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\SciLexer.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\SciLexer64.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\libtidy.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\app.config
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\Tests.IorTests.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\Tests.IorTests.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\FluentAssertions.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\nunit.framework.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\RESTClient.exe
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\System.Net.Http.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\System.Net.Http.WebRequest.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\ScintillaNET.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\NLog.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\TidyManaged.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\RESTClient.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\FluentAssertions.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\FluentAssertions.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\nunit.framework.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\System.Net.Http.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\System.Net.Http.WebRequest.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\ScintillaNET.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\NLog.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\bin\x86\Debug\TidyManaged.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\obj\x86\Debug\Tests.IorTests.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\obj\x86\Debug\Tests.IorTests.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Tests.IorTests\obj\x86\Debug\Tests.IorTests.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\SciLexer.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\SciLexer64.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\libtidy.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\app.config
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Tests.IorTests.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Tests.IorTests.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\FluentAssertions.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\nunit.framework.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\RESTClient.exe
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Utils.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\ScintillaNET.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\NLog.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\PropertyGridEx.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\TidyManaged.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\RESTClient.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Utils.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\FluentAssertions.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\FluentAssertions.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\nunit.framework.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\ScintillaNET.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\NLog.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\PropertyGridEx.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\TidyManaged.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\obj\x86\Debug\Tests.IorTests.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\obj\x86\Debug\Tests.IorTests.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Tests.IorTests\obj\x86\Debug\Tests.IorTests.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\SciLexer.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\SciLexer64.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\libtidy.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\app.config
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Tests.IorTests.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Tests.IorTests.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\FluentAssertions.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\nunit.framework.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\RESTClient.exe
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Utils.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\ScintillaNET.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\NLog.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\PropertyGridEx.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\TidyManaged.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\RESTClient.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Utils.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\FluentAssertions.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\FluentAssertions.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\nunit.framework.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\ScintillaNET.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\NLog.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\PropertyGridEx.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\bin\x86\Debug\TidyManaged.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\obj\x86\Debug\Tests.IorTests.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\obj\x86\Debug\Tests.IorTests.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Tests.IorTests\obj\x86\Debug\Tests.IorTests.pdb

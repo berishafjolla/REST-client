@@ -1,0 +1,67 @@
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\SciLexer.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\SciLexer64.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\libtidy.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\app.config
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\im-only-resting.exe.config
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\NLog.config
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\im-only-resting.exe
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\im-only-resting.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\NLog.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\ScintillaNET.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\System.Net.Http.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\TidyManaged.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\NLog.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\ScintillaNET.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\System.Net.Http.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\bin\Debug\TidyManaged.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\Ior.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\Swensen.Ior.Forms.AboutBox.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\Swensen.Ior.Forms.MainForm.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\Swensen.Ior.Forms.SettingsDialog.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\Swensen.Ior.Properties.Resources.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\Ior.csproj.GenerateResource.Cache
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\im-only-resting.exe
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\im-only-resting.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source\Ior\obj\x86\Debug\Swensen.Ior.Forms.BasicAuthentication.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\SciLexer.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\SciLexer64.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\libtidy.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\app.config
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\NLog.config
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\NLog.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\ScintillaNET.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\System.Net.Http.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\TidyManaged.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\NLog.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\ScintillaNET.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\System.Net.Http.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\TidyManaged.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\Ior.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\Swensen.Ior.Forms.AboutBox.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\Swensen.Ior.Forms.BasicAuthentication.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\Swensen.Ior.Forms.MainForm.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\Swensen.Ior.Forms.SettingsDialog.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\Swensen.Ior.Properties.Resources.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\Ior.csproj.GenerateResource.Cache
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\RESTClient.exe
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\RESTClient.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\RESTClient.exe.config
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\RESTClient.exe
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\Debug\RESTClient.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Debug\RESTClient.TrustInfo.xml

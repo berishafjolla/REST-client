@@ -1,0 +1,140 @@
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\SciLexer.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\SciLexer64.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\libtidy.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\app.config
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\RESTClient.exe.config
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\RESTClient.exe.manifest
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\RESTClient.application
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\RESTClient.exe
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\RESTClient.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\Newtonsoft.Json.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\NLog.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\ScintillaNET.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\System.Net.Http.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\System.Net.Http.WebRequest.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\TidyManaged.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\Newtonsoft.Json.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\NLog.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\ScintillaNET.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\System.Net.Http.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\System.Net.Http.WebRequest.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\bin\x86\Deploy\TidyManaged.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\Ior.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\Swensen.Ior.Forms.AboutBox.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\Swensen.Ior.Forms.BasicAuthentication.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\Swensen.Ior.Forms.MainForm.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\Swensen.Ior.Forms.SettingsDialog.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\Swensen.Ior.Properties.Resources.resources
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\Ior.csproj.GenerateResource.Cache
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\RESTClient.TrustInfo.xml
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\RESTClient.exe.manifest
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\RESTClient.application
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\RESTClient.exe
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior\obj\x86\Deploy\RESTClient.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\SciLexer.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\SciLexer64.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\libtidy.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\app.config
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\RESTClient.exe.config
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\RESTClient.exe.manifest
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\RESTClient.application
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\RESTClient.exe
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\RESTClient.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\Newtonsoft.Json.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\NLog.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\ScintillaNET.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\System.Net.Http.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\System.Net.Http.WebRequest.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\TidyManaged.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\Utils.dll
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\Utils.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\Newtonsoft.Json.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\NLog.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\ScintillaNET.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\System.Net.Http.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\System.Net.Http.WebRequest.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\bin\x86\Deploy\TidyManaged.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\Ior.csprojResolveAssemblyReference.cache
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\Swensen.Ior.Forms.AboutBox.resources
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\Swensen.Ior.Forms.BasicAuthentication.resources
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\Swensen.Ior.Forms.MainForm.resources
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\Swensen.Ior.Forms.SettingsDialog.resources
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\Swensen.Ior.Properties.Resources.resources
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\Ior.csproj.GenerateResource.Cache
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\RESTClient.TrustInfo.xml
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\RESTClient.exe.manifest
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\RESTClient.application
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\RESTClient.exe
+C:\Users\jamesb\Desktop\iamonlyresting\RESTClient\Ior\obj\x86\Deploy\RESTClient.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.exe.config
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.exe
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\SciLexer.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\SciLexer64.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\libtidy.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\app.config
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.exe.manifest
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.application
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.exe
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\NLog.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\PropertyGridEx.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\ScintillaNET.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\TidyManaged.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\Utils.dll
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\PropertyGridEx.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\Utils.pdb
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\NLog.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\ScintillaNET.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\bin\x86\Deploy\TidyManaged.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Ior.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Forms.AboutBox.resources
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Forms.BasicAuthentication.resources
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Forms.MainForm.resources
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Forms.SettingsDialog.resources
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Properties.Resources.resources
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Ior.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.TrustInfo.xml
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.exe.manifest
+C:\Users\Acer\Desktop\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.application
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.exe.config
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.exe
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\SciLexer.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\SciLexer64.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\libtidy.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\app.config
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.exe.manifest
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.application
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.exe
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\RESTClient.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\NLog.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\PropertyGridEx.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\ScintillaNET.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\TidyManaged.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\Utils.dll
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\PropertyGridEx.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\Utils.pdb
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\NLog.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\ScintillaNET.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\bin\x86\Deploy\TidyManaged.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Ior.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Forms.AboutBox.resources
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Forms.BasicAuthentication.resources
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Forms.MainForm.resources
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Forms.SettingsDialog.resources
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Swensen.Ior.Properties.Resources.resources
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\Ior.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.TrustInfo.xml
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.exe.manifest
+C:\Users\Acer\Desktop\Thesis\restclientgui_882512ea8560\Ior\obj\x86\Deploy\RESTClient.application

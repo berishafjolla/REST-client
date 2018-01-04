@@ -1,0 +1,4 @@
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior.Forms.PropertyGridEx\bin\Release\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior.Forms.PropertyGridEx\bin\Release\PropertyGridEx.pdb
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior.Forms.PropertyGridEx\obj\Release\PropertyGridEx.dll
+C:\Users\jamesb\Desktop\iamonlyresting\source - Copy\Ior.Forms.PropertyGridEx\obj\Release\PropertyGridEx.pdb
